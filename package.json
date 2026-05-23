@@ -1,8 +1,0 @@
-{
-  "name": "rooferleads",
-  "version": "1.0.0",
-  "description": "Google Maps roofing contractor lead scraper",
-  "scripts": {
-    "dev": "vercel dev"
-  }
-}
