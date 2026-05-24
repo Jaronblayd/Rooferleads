@@ -23,7 +23,7 @@ export default async function handler(req, res) {
         headers: { "Content-Type": "application/json" },
         body: JSON.stringify({
           searchStringsArray: [query],
-          maxCrawledPlacesPerSearch: 20,
+          maxCrawledPlacesPerSearch: 40,
           language: "en",
           countryCode: "us",
         }),
